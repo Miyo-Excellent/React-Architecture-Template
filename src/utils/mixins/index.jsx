@@ -1,4 +1,4 @@
-import OrientationMixins from "./OrientationMixins";
-import ValidationMixins from "./ValidationMixins";
+import OrientationMixins from './OrientationMixins';
+import ValidationMixins from './ValidationMixins';
 
-export {OrientationMixins, ValidationMixins};
+export { OrientationMixins, ValidationMixins };

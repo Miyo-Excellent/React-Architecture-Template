@@ -1,3 +1,3 @@
-import DashboardRepositories from "./DashboardRepositories";
+import DashboardRepositories from './DashboardRepositories';
 
-export {DashboardRepositories};
+export { DashboardRepositories };

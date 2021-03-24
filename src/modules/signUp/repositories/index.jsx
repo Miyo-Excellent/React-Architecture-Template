@@ -1,3 +1,3 @@
-import SignUpRepositories from "./SignUpRepositories";
+import SignUpRepositories from './SignUpRepositories';
 
-export {SignUpRepositories};
+export { SignUpRepositories };

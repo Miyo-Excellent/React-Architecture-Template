@@ -1,3 +1,1 @@
-export default class  TextHelper {
-
-}
+export default class TextHelper {}

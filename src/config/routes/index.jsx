@@ -1,3 +1,3 @@
-import Config from "./Config";
+import Config from './Config';
 
-export {Config};
+export { Config };

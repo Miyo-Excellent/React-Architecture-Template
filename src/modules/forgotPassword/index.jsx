@@ -1,3 +1,3 @@
-import ForgotPasswordScreen from "./screens/ForgotPasswordScreen";
+import ForgotPasswordScreen from './screens/ForgotPasswordScreen';
 
-export {ForgotPasswordScreen}
+export { ForgotPasswordScreen };

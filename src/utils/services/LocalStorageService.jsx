@@ -1,1 +1,1 @@
-export default class  LocalStorageService {}
+export default class LocalStorageService {}

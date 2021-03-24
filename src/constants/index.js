@@ -1,5 +1,5 @@
-import ApiPaths from "./ApiPaths";
-import AppConstants from "./AppConstants";
-import AssetsPaths from "./AssetsPaths";
+import ApiPaths from './ApiPaths';
+import AppConstants from './AppConstants';
+import AssetsPaths from './AssetsPaths';
 
-export {ApiPaths, AppConstants, AssetsPaths};
+export { ApiPaths, AppConstants, AssetsPaths };

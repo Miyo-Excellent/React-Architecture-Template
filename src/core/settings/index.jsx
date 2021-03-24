@@ -1,3 +1,3 @@
-import ApplicationSettings from "./ApplicationSettings";
+import ApplicationSettings from './ApplicationSettings';
 
-export {ApplicationSettings};
+export { ApplicationSettings };

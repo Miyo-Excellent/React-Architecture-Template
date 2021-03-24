@@ -1,3 +1,3 @@
-import TextHelper from "./TextHelper";
+import TextHelper from './TextHelper';
 
-export {TextHelper};
+export { TextHelper };

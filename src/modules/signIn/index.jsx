@@ -1,3 +1,3 @@
-import SignInScreen from "./screens/SignInScreen";
+import SignInScreen from './screens/SignInScreen';
 
-export {SignInScreen}
+export { SignInScreen };

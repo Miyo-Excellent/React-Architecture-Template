@@ -1,3 +1,3 @@
-import DashboardScreen from "./screens/DashboardScreen";
+import DashboardScreen from './screens/DashboardScreen';
 
-export {DashboardScreen}
+export { DashboardScreen };

@@ -1,3 +1,3 @@
-import ForgotPasswordRepositories from "./ForgotPasswordRepositories";
+import ForgotPasswordRepositories from './ForgotPasswordRepositories';
 
-export {ForgotPasswordRepositories};
+export { ForgotPasswordRepositories };

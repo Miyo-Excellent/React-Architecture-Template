@@ -1,4 +1,4 @@
-import AppDialogs from "./appDialogs";
-import UiUtils from "./uiUtils";
+import AppDialogs from './appDialogs';
+import UiUtils from './uiUtils';
 
-export {AppDialogs, UiUtils};
+export { AppDialogs, UiUtils };
